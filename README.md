@@ -1,3 +1,6 @@
+***Remember that React is very specific about the path that is used to open your code***
+**Also make sure to save your package.json file if there an error**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
