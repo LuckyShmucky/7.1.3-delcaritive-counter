@@ -1,4 +1,5 @@
 ***Remember that React is very specific about the path that is used to open your code***
+<br>
 **Also make sure to save your package.json file if there an error**
 
 # Getting Started with Create React App
